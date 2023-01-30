@@ -1,2 +1,3 @@
 # yetgen
-yetgen jump Python için açılmıştır
+Bu repoyu yeni jump içerikleri için oluşturduk
+
